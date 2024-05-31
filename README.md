@@ -14,14 +14,14 @@ This Weather App is a simple Flutter application that allows users to enter a lo
 The project follows a clean architecture with a clear separation of concerns. Here's an overview of the project structure:
 
 **weatherapp-flutter/lib/**
-				├── models/         # Data models representing weather data
-				├── providers/      # State management using provider package
-				├── routes/         # Application routes and navigation
-				├── screens/        # UI screens and pages
-				├── services/       # Services for API calls and data handling
-				├── utils/          # Utility functions and constants
-				├── widgets/        # Reusable widgets
-				├── main.dart       # Entry point of the application
+- models/         # Data models representing weather data 
+- providers/      # State management using provider package
+- routes/         # Application routes and navigation
+- screens/        # UI screens and pages
+- services/       # Services for API calls and data handling
+- utils/          # Utility functions and constants
+- widgets/        # Reusable widgets
+- main.dart       # Entry point of the application
 
 ### Installation
 1.  Clone the repository:
