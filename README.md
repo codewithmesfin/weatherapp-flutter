@@ -28,7 +28,11 @@ The project follows a clean architecture with a clear separation of concerns. He
 `git clone https://github.com/codewithmesfin/weatherapp-flutter.git`
 `cd weatherapp-flutter`
 
-2. Install dependencies:
+2. Add your OpenWeatherMap API and BASE_URL to .env file:
+`WEATHER_APP_ID=`
+`BASE_URL=`
+
+3. Install dependencies:
 `flutter pub get`
 
 ### Running the App
